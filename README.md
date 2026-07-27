@@ -58,7 +58,7 @@ Atualmente, atuo como Analista de TI na F1rst (Grupo Santander) e sigo aprimoran
 ### Contato
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sabrynasousa" target="_blank">
+  <a href="https://www.linkedin.com/in/lays-sabryna-sousa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:layssantos799@gmail.com">
